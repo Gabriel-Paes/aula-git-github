@@ -1,6 +1,8 @@
 class Teste
   def self.main
-    # vazio por enquanto
+    num1 = 3
+    num2 = 5
+    soma = num1 + num2
   end
 end
 
