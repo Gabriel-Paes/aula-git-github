@@ -3,6 +3,7 @@ class Teste
     num1 = 3
     num2 = 5
     soma = num1 + num2
+    puts "Soma = #{soma}"
   end
 end
 
